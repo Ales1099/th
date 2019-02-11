@@ -1,0 +1,3 @@
+/home/ales1098/threads/lessons_one/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ales1098/threads/lessons_one/cmake-build-debug/CMakeFiles/lessons_one.dir
+/home/ales1098/threads/lessons_one/cmake-build-debug/CMakeFiles/edit_cache.dir
